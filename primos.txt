@@ -1,0 +1,17 @@
+Los numeros primos existentes hasta el numero ingresado son: 5
+Los numeros primos existentes hasta el numero ingresado son: 2
+Los numeros primos existentes hasta el numero ingresado son: 3
+Los numeros primos existentes hasta el numero ingresado son: 5
+Los numeros primos existentes hasta el numero ingresado son: 2
+Los numeros primos existentes hasta el numero ingresado son: 3
+Los numeros primos existentes hasta el numero ingresado son: 5
+Los numeros primos existentes hasta el numero ingresado son: 7
+Los numeros primos existentes hasta el numero ingresado son: 2
+Los numeros primos existentes hasta el numero ingresado son: 3
+Los numeros primos existentes hasta el numero ingresado son: 5
+Los numeros primos existentes hasta el numero ingresado son: 7
+Los numeros primos existentes hasta el numero ingresado son: 11
+Los numeros primos existentes hasta el numero ingresado son: 13
+Los numeros primos existentes hasta el numero ingresado son: 2
+Los numeros primos existentes hasta el numero ingresado son: 3
+Los numeros primos existentes hasta el numero ingresado son: 5
